@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+}
+
+.info{
+    color: rgb(20, 20, 20);
+    text-align: center;
+    margin-top: 16rem;
+    font: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+    background-color: white;
+    font-size: 3rem;
+}

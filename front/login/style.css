@@ -1,0 +1,42 @@
+*{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+    padding: 0.5rem;
+    background-color: black;
+    margin:20px;
+}
+
+.logo{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    color:white;
+    justify-content: center;
+}
+
+input[type="text"],input[type="submit"],input[type="email"],input[type="password"],::placeholder{
+    font-size: .9rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighte15;
+    border: none;
+    border-radius: 15px 15px 15px 15px;
+    background-color: white;    
+    display: grid;
+    margin: auto;
+    cursor: pointer;
+}
+
+.g{
+    cursor: pointer;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    display: block;
+}
+
+.va{
+    font-size: 0.9rem;
+    text-align: center;
+    font-family: monospace;
+    margin-top: 1rem;
+    cursor: none;
+}
+
